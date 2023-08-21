@@ -1,8 +1,8 @@
 //Preparare le lasagne alla bolognese
 
 //Visione ricetta e controllo ingredienti
-- lettura della ricetta  ( "Pancetta", "Carote", "Olio", "Cipolle", "Sedano", "Sfoglia di pasta confezionata", "Passato di pomodori", "...")
-- controllo ingrdienti
+- lettura della ricetta
+- reperire ingredienti ("Pancetta", "Carote", "Olio", "Cipolle", "Sedano", "Sfoglia di pasta confezionata", "Passato di pomodori", "...")
   - SE (sono disponibili)
    - vado avanti
   - ALTRIMENTI
